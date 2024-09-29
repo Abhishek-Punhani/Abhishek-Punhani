@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">I am a dedicated B.Tech student pursuing Electrical Engineering at IIT BHU Varanasi (2023-2027). My academic journey is guided by a passion for web development and coding, areas in which I am actively preparing and honing my skills. Fluent in English, I possess valuable attributes including leadership, marketing prowess, and project management abilities. Eager to contribute, learn, and excel in the professional world.</h3>
+<h3 align="center">Aspiring Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-punhani&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-punhani" /> </p>
 
