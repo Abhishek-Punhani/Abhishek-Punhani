@@ -90,7 +90,9 @@ SQL, Data Structures & Algorithms, Operating Systems, Networks, OOPS
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Punhani&show_icons=true&theme=radical" height="160" />
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Punhani&" alt="Abhishek-Punhani" /></p>
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Punhani&column=7&theme=darkhub&margin-w=5&no-frame=true" />
+</div>
 </p>
 
 <p align="center">
