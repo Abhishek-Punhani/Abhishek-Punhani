@@ -1,20 +1,112 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">Aspiring Software Developer.</h3>
+<h1 align="center">🐍 Abhishek Punhani — SDE & Product Engineer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-punhani&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-punhani" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-punhani" alt="abhishek-punhani" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/manavpunhani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/manavpunhani/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://codolio.com/profile/punhaniabhi">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-punhani/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:abhishek.punhani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-punhani&show_icons=true&locale=en&layout=compact" alt="abhishek-punhani" /></p>
+<h2 align="center">⚡️ Featured Projects</h2>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-punhani&show_icons=true&locale=en" alt="abhishek-punhani" /></p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Abhishek-Punhani/product-ui-dream11">
+        <img src="https://img.shields.io/badge/-Product%20UI%20Dream11-blueviolet?style=for-the-badge" /><br/>
+        <b>Product UI Dream11</b>
+      </a>
+      <br><sub>Next-gen fantasy sports UI, blazing fast & interactive.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Abhishek-Punhani/shravya">
+        <img src="https://img.shields.io/badge/-Shravya-orange?style=for-the-badge" /><br/>
+        <b>Shravya</b>
+      </a>
+      <br><sub>AI-powered content curation platform—discover what moves you.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Abhishek-Punhani/metabet">
+        <img src="https://img.shields.io/badge/-Metabet-green?style=for-the-badge" /><br/>
+        <b>Metabet</b>
+      </a>
+      <br><sub>Sports prediction engine with real-time analytics & ML.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Abhishek-Punhani/skysync">
+        <img src="https://img.shields.io/badge/-Skysync-blue?style=for-the-badge" /><br/>
+        <b>Skysync</b>
+      </a>
+      <br><sub>Lightning-fast file sync & secure cloud storage solutions.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Aditya-ad48/NovaChat">
+        <img src="https://img.shields.io/badge/-NovaChat-cyan?style=for-the-badge" /><br/>
+        <b>NovaChat</b>
+      </a>
+      <br><sub>Modern chat—live messaging, sleek UI, strong encryption.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Abhishek-Punhani/dream11-backend">
+        <img src="https://img.shields.io/badge/-Dream11%20Backend-red?style=for-the-badge" /><br/>
+        <b>Dream11 Backend</b>
+      </a>
+      <br><sub>High-performance backend powering Dream11’s core experience.</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-punhani&" alt="abhishek-punhani" /></p>
+---
+
+<h2 align="center">🧑‍💻 Skills & Expertise</h2>
+<div align="center">
+
+<strong>Programming Languages</strong><br>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,go,bash" />
+<br><br>
+<strong>Technologies & Tools</strong><br>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,flask,fastapi,aws,react,nextjs,django,redis,socketio,turbo,github" />
+<br><br>
+<strong>Databases & CS Fundamentals</strong><br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<br>
+SQL, Data Structures & Algorithms, Operating Systems, Networks, OOPS
+
+</div>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Punhani&show_icons=true&theme=radical" height="160" />
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Punhani&" alt="Abhishek-Punhani" /></p>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Abhishek-Punhani/Abhishek-Punhani/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+</p>
+
+---
+
+<h2 align="center">✨ About</h2>
+<p align="center">
+Driven by curiosity and a passion for product engineering, I build platforms that scale, delight, and solve real problems.<br>
+Whether it’s backend architecture, cloud-native infra, or sleek UIs—I’m always chasing the next technical challenge.
+</p>
+
+---
+
+<p align="center"><b>
+“Code is poetry, and I write new verses every day.”
+</b></p>
