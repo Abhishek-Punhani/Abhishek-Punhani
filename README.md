@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://codolio.com/profile/punhaniabhi">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-View-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-punhani/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abhishek.punhani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -68,36 +68,37 @@
 </div>
 
 ---
-
 <h2 align="center">🧑‍💻 Skills & Expertise</h2>
 <div align="center">
 
 <strong>Programming Languages</strong><br>
 <img src="https://skillicons.dev/icons?i=cpp,python,js,go,bash" />
 <br><br>
+
 <strong>Technologies & Tools</strong><br>
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,flask,fastapi,aws,react,nextjs,django,redis,socketio,turbo,github" />
 <br><br>
+
 <strong>Databases & CS Fundamentals</strong><br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 <br>
-SQL, Data Structures & Algorithms, Operating Systems, Networks, OOPS
+SQL • Data Structures & Algorithms • Operating Systems • Networks • OOPS
 
 </div>
 
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Punhani&show_icons=true&theme=radical" height="160" />
-  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Punhani&column=7&theme=darkhub&margin-w=5&no-frame=true" />
-</div>
-</p>
+<img src="https://komarev.com/ghpvc/?username=abhishek-punhani&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Abhishek-Punhani/Abhishek-Punhani/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Punhani&show_icons=true&theme=radical&hide_border=true&border_radius=12" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-punhani&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&border_radius=12" height="160" />
+
+<br><br>
+
+<p align="center"> <img src="https://github.com/Abhishek-Punhani/Abhishek-Punhani/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" /> </p>
+</div>
 
 ---
 
@@ -110,5 +111,5 @@ Whether it’s backend architecture, cloud-native infra, or sleek UIs—I’m al
 ---
 
 <p align="center"><b>
-“Code is poetry, and I write new verses every day.”
+“Code is poetry, and I write new verses every day.” ✨
 </b></p>
