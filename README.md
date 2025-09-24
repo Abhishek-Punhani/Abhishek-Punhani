@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Abhishek-Punhani/product-ui-dream11">
+      <a href="https://github.com/Abhishek-Punhani/productUI_Dream11">
         <img src="https://img.shields.io/badge/-Product%20UI%20Dream11-blueviolet?style=for-the-badge" /><br/>
         <b>Product UI Dream11</b>
       </a>
@@ -57,7 +57,7 @@
       <br><sub>Modern chat—live messaging, sleek UI, strong encryption.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Abhishek-Punhani/dream11-backend">
+      <a href="https://github.com/Abhishek-Punhani/dream11_backend">
         <img src="https://img.shields.io/badge/-Dream11%20Backend-red?style=for-the-badge" /><br/>
         <b>Dream11 Backend</b>
       </a>
