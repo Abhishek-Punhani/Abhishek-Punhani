@@ -1,4 +1,4 @@
-<h1 align="center">🐍 Abhishek Punhani — SDE & Product Engineer</h1>
+<h1 align="center">🐍 Abhishek Punhani</h1>
 
 <p align="center">
   <a href="https://codolio.com/profile/punhaniabhi">
